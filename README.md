@@ -52,6 +52,11 @@ This project uses the following endpoints from JSONPlaceholder:
 
 ---
 
+## WebLink
+- [Blog Posts Viewer](https://bhadrinath95.github.io/BlogPostViewer/)
+
+---
+
 ## JavaScript Overview
 
 The JavaScript code:
